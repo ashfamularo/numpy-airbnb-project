@@ -1,0 +1,1 @@
+This was a project for the December 2022 CoRise Intro to Data Science with Python course. For this project, I worked with data from Air B&B to create a map of Air B&B listings near the Rijksmuseum in AMsterdam. I converted the prices of the listings from US dollars to Japanese yen and accounted for Japan's 2022 annual inflation rate.
